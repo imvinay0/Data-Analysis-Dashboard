@@ -23,5 +23,17 @@ I developed an interactive dashboard that helps visualize key sales metrics and 
  - Run the Python scripts to clean and process the data.
  - Open the Power BI dashboard to explore the insights
 
-## Dashboard 
--<a href="https://github.com/imvinay0/Data-Analysis-Dashboard/blob/main/Screenshot%20(171).png">Dasghboard-image</a>
+## Dashboard Image
+![Screenshot (172)](https://github.com/user-attachments/assets/61eb1807-e76f-4709-ac04-050dc9b4a762)
+
+## Project Insight 
+- Revenue Distribution: Consumers contributed to 51.48% of total sales, highlighting the importance of Consumers customers.
+- Sales Trends: Sales seem to be Increase every year.
+- Product Performance: Identified best-selling products and underperforming items.
+- Geographical Insights: Sales were concentrated in certain regions, guiding localized marketing and expansion plans.
+- Asia, Europe are the 55% of market capture.
+
+## Final Conclusion 
+- We identified key revenue drivers, customer segments, and sales patterns. These insights can help businesses optimize pricing, inventory, and marketing strategies to maximize revenue and customer retention.
+
+
